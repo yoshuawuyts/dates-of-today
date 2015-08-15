@@ -25,7 +25,7 @@ today()
 ```
 
 ## API
-### today()
+### date = today()
 Get today's date as an object. Months and days are prefixed with leading zeros.
 
 ## License
